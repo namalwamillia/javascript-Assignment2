@@ -1,0 +1,23 @@
+header{
+     text-align: center;
+    }
+h1{
+    text-align: center;
+}
+label {
+    color: #160f0f;
+
+}
+Button{
+text-align: center;
+color: black;
+background-color: rgb(5, 182, 202);
+}
+body{
+    background-color: hotpink;
+    padding: 50px;
+    
+
+
+    
+}
